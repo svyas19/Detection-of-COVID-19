@@ -54,5 +54,5 @@ Images from both the labels are converted into shape (75,75,3)</br>
 3 represents the Channel.</br>
 
 #Data Visualization
-![Data Visualization][]
+![Data Visualization][https://github.com/svyas19/Detection-of-COVID-19/blob/main/Data_Visualization.png]
 
