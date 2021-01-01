@@ -16,4 +16,4 @@ To provide Immediate results.</br>
 Currently, the Reverse transcription-polymerase chain reaction(RT PCR) test is taking 2-3 hours for the results.</br>
 Extend of spread can be detected from chest radiography.</br>
 
-![alt text](file:///Users/shivvyas/Downloads/Report_Covid-19%20Detection%20(4).pdf)
+![alt text](https://github.com/svyas19/Detection-of-COVID-19/blob/main/Report_Covid-19%20Detection.jpg)
