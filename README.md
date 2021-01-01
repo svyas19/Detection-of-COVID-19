@@ -53,3 +53,6 @@ Label: ‘2’ → Positive COVID - 19 (4001 Images)</br>
 Images from both the labels are converted into shape (75,75,3)</br>
 3 represents the Channel.</br>
 
+#Data Visualization
+![Data Visualization][]
+
