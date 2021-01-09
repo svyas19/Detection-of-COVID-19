@@ -18,6 +18,16 @@ Extend of spread can be detected from chest radiography.</br>
 
 ![Project Description](https://github.com/svyas19/Detection-of-COVID-19/blob/main/Report_Covid-19%20Detection%20(1).jpg)</br>
 
+Results : Final Model , After Tunbning Hyperparameters, Regularization and Benchmarking </br>
+
+Architecture : [(75*75*3), 512, 256, 128, 64, 2]</br>
+Activation Function : ReLU</br>
+Loss Function: Sum-of-Squares</br>
+Weight Initialization: Glorot</br>
+Momentum: 0</br>
+Learning Rate :  0.01</br>
+Regularization: L1 Regularization , L 1 = 0.01, L2 =0</br>
+
 
 
 
