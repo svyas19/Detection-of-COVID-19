@@ -4,7 +4,7 @@
 ## Classifier 1: Classification of Chest CT - Scan</br>
 ## Classifier 2: Classification of Chest X-Ray </br>
 
-#1. Introduction</br></br>
+# 1. Introduction</br></br>
 
 COVID-19</br>
 
@@ -18,7 +18,7 @@ Extend of spread can be detected from chest radiography.</br>
 
 ![Project Description](https://github.com/svyas19/Detection-of-COVID-19/blob/main/Report_Covid-19%20Detection%20(1).jpg)</br>
 
-# 4. Results : Final Model , After Tunbning Hyperparameters, Regularization and Benchmarking </br>
+# 4. Results : Final Model , After Tunning Hyperparameters, Regularization and Benchmarking </br>
 
 Architecture : [(75*75*3), 512, 256, 128, 64, 2]</br>
 Activation Function : ReLU</br>
