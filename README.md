@@ -6,7 +6,6 @@
 
 # 1. Introduction</br></br>
 
-COVID-19</br>
 
 Covid-19 is also termed as “Coronavirus(CoV).” It is a novel virus that was not identified in humans before 2020. Cov is the large family of SARS-Cov,  and it is seen to be transmitted from animals to humans. This virus causes illnesses such as common cold, respiratory problems, etc. The outbreak of this virus has resulted in a pandemic; it has affected 37.1 million people and has caused 1.07 Million fatalities worldwide till date.</br></br>
 
