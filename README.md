@@ -28,6 +28,6 @@ Momentum: 0</br>
 Learning Rate :  0.01</br>
 Regularization: L1 Regularization , L 1 = 0.01, L2 =0</br>
 
-![Evaluation Results](https://github.com/svyas19/Detection-of-COVID-19/blob/main/Report_Covid-19%20Detection%20(1).jpg)</br>
+![Evaluation Results](https://github.com/svyas19/Detection-of-COVID-19/blob/main/Evaluation%20Results.png)</br>
 
 
