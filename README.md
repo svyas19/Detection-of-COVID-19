@@ -18,6 +18,13 @@ Extend of spread can be detected from chest radiography.</br>
 ## 3. Overview
 ![Project Description](https://github.com/svyas19/Detection-of-COVID-19/blob/main/Report_Covid-19%20Detection%20(1).jpg)</br>
 
+
+## 4. Dataset for CT Scans
+![CT Scan](https://github.com/svyas19/Detection-of-COVID-19/blob/main/CT-Scan.png)</br>
+
+## 5. Dataset for X-Ray
+![X-Ray](https://github.com/svyas19/Detection-of-COVID-19/blob/main/X-Ray.png)</br>
+
 ## 6. Final Model Results </br>
 
 Architecture : [(75*75*3), 512, 256, 128, 64, 2]</br>
