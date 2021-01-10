@@ -27,7 +27,7 @@ Extend of spread can be detected from chest radiography.</br>
 
 ## 6. Final Model Results </br>
 
-Architecture : [(75*75*3), 512, 256, 128, 64, 2]</br>
+Architecture : [(75x75X3), 512, 256, 128, 64, 2]</br>
 Activation Function : ReLU</br>
 Loss Function: Sum-of-Squares</br>
 Weight Initialization: Glorot</br>
